@@ -7,4 +7,5 @@ RegisterCommand('stoprecord', function()
 end, false)
 
 RegisterKeyMapping('stoprecord', 'Stop Record', 'keyboard', 'F6')
+
 RegisterKeyMapping('startrecord', 'Start Record', 'keyboard', 'F5')
